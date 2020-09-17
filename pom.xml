@@ -48,9 +48,9 @@
   </licenses>
 
   <scm>
-    <connection>scm:git:https://github.com/nmorel/gwt-jackson.git</connection>
-    <developerConnection>scm:git:https://github.com/nmorel/gwt-jackson.git</developerConnection>
-    <url>https://github.com/nmorel/gwt-jackson</url>
+    <connection>scm:git:https://github.com/saigyo/gwt-jackson.git</connection>
+    <developerConnection>scm:git:https://github.com/saigyo/gwt-jackson.git</developerConnection>
+    <url>https://github.com/saigyo/gwt-jackson.git</url>
     <tag>HEAD</tag>
   </scm>
 

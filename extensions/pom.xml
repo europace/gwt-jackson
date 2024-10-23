@@ -19,7 +19,7 @@
   <parent>
     <groupId>com.github.nmorel.gwtjackson</groupId>
     <artifactId>gwt-jackson-parent</artifactId>
-    <version>2.10.5-EUROPACE</version>
+    <version>2.11.4-EUROPACE-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
 

@@ -54,6 +54,13 @@
     <tag>HEAD</tag>
   </scm>
 
+  <distributionManagement>
+    <repository>
+      <id>europace2-releases</id>
+      <url>http://nexus-beta.hypoport.local/nexus/content/repositories/europace2-releases</url>
+    </repository>
+  </distributionManagement>
+
   <developers>
     <developer>
       <id>nmr.morel</id>
